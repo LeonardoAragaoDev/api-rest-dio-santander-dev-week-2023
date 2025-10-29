@@ -49,5 +49,5 @@ classDiagram
 - [Spring Boot 3.1.2](https://spring.io/blog/2023/07/20/spring-boot-3-1-2-available-now)
 - [Spring Data JPA](https://spring.io/projects/spring-data-jpa)
 - [Gradle 8.13](https://gradle.org/releases/#8.13)
-- [Swagger](https://swagger.io/)
+- [Swagger 2.1.0](https://swagger.io/)
 - [Railway](https://railway.com/)
