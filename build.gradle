@@ -10,7 +10,7 @@ description = 'Java RESTFul API criada para a Santander Dev Week 2023.'
 
 java {
 	toolchain {
-		languageVersion = JavaLanguageVersion.of(17)
+		languageVersion = JavaLanguageVersion.of(21)
 	}
 }
 
